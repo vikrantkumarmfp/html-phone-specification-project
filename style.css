@@ -1,0 +1,21 @@
+li{
+    color: yellow;
+    border: 1px dashed black;
+    list-style: none;
+    font-size: 30px;
+}
+
+p{
+    color: blue;
+    text-align: justify;
+}
+
+div{
+    text-align: justify;
+    color: whitesmoke;
+    font-size: 30px;
+}
+body{
+    background-image: url(bg2.jpg);
+    background-size: cover;
+}
