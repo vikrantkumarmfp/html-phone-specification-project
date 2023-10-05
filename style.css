@@ -15,7 +15,38 @@ div{
     color: whitesmoke;
     font-size: 30px;
 }
-body{
+main{
     background-image: url(bg2.jpg);
     background-size: cover;
+    margin-top: -30px;
+}
+
+header{
+    background-color: black;
+}
+.oppo{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+img{
+    border-radius: 50%;
+}
+
+a:visited{color: green;
+}
+
+a:hover{
+    color: red;
+}
+
+footer{
+    background-color: black;
+    margin-top: -18px;
+}
+
+.hor{
+    background-color: aqua;
+    color: black;
 }
